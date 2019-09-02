@@ -1,6 +1,6 @@
 File Renamer
 ===
-a alternative solution of my old python script
+an alternative solution of my old python script
 
 ## Extension
 
